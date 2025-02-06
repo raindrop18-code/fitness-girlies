@@ -1,7 +1,7 @@
----
-# title: Welcome to my homepage
----
 # Hello there 👋
+---
+# Welcome to my homepage
+---
 ---
 welcome to my personal site! this is a place I will be sharing personal projects, thoughts and anything that interests me. 
 ---
